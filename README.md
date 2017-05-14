@@ -5,10 +5,6 @@ This is the project for pagerank the web that craw from the crawler (https://git
 * Python
 * Pathfile : https://drive.google.com/file/d/0B9O0qfX4FFUwdEFJaTRuX2R3c0U/view?usp=sharing
 
-## The Result
-The result of the program are here.
-* PageRankResult : https://drive.google.com/file/d/0B9O0qfX4FFUwZTV6OGRnbXpTc0U/view?usp=sharing
-
 ## Authors
 
 * **Teerapat Chaupetch** - [LNWPOR](https://github.com/LNWPOR)
